@@ -1,4 +1,3 @@
-# enroll_ease
 # Enroll-Ease
 
 Enroll Ease is Chatbot dedicated to the Admission Process of Siddagnaga Institute Of Technology Which gives precise answer regarding the admission procedures, seat matrix, seat availability, branches, facilities provided by the college and many more Queries asked by the user.
@@ -14,4 +13,4 @@ Chatbot features:</br>
 
 
 ## App Demo
-
+To be deployed soon..
